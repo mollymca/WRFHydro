@@ -7,7 +7,7 @@ Some boiler plate about WRFHydro and assosciated tools
 # Official repositories
 |Repository|Description|Status
 |------|------|-----------|
-[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core WRF-Hydro model code| [](https://github.com/NCAR/WRFHydro/blob/master/static/badges/Status-Core-green.svg) |
+[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core WRF-Hydro model code| !(https://github.com/NCAR/WRFHydro/blob/master/static/badges/Status-Core-green.svg) |
 Version Control with Git| [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) | [rendered](http://swcarpentry.github.io/git-novice/) |
 Version Control with Mercurial | [swcarpentry/hg-novice](https://github.com/swcarpentry/hg-novice) | [rendered](http://swcarpentry.github.io/hg-novice/) |
 Using Databases and SQL	| [swcarpentry/sql-novice-survey](https://github.com/swcarpentry/sql-novice-survey) | [rendered](http://swcarpentry.github.io/sql-novice-survey/) |
