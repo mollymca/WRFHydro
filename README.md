@@ -12,6 +12,7 @@ Some boiler plate about WRFHydro and assosciated tools
 [wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from WRF-Hydro training workshops | ![](https://github.com/NCAR/WRFHydro/blob/master/static/badges/Status-Core-green.svg) |
 [PyWrfHydroCalib](https://github.com/NCAR/PyWrfHydroCalib) | Python scripts for model calibration | ![](https://github.com/NCAR/WRFHydro/blob/master/static/badges/Status-unsupported-red.svg) |
 [wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the WRF-Hydro model | ![](https://github.com/NCAR/WRFHydro/blob/master/static/badges/Status-unsupported-red.svg) |
+[wrf_hydro_py](https://github.com/NCAR/rwrfhydro) | Python API for the WRF-Hydro model | ![](https://github.com/NCAR/WRFHydro/blob/master/static/badges/Status-community_supported-orange) |
 
 # How to get involved
 Some boiler plate about collaboration 
