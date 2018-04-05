@@ -2,7 +2,7 @@
 Meta-repository for the WRFHydro modeling ecosystem
 
 ## What is WRF-Hydro?
-Some boiler plate about WRFHydro and assosciated tools
+Some boiler plate about WRFHydro and assosciated tools, including links to our NCAR project page for complete information
 
 ## Official repositories
 |Repository|Description|Support status
