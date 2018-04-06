@@ -1,10 +1,10 @@
 # WRFHydro
 Meta-repository for the WRFHydro modeling ecosystem
 
-# What is WRF-Hydro
-Some boiler plate about WRFHydro and assosciated tools
+## What is WRF-Hydro?
+Some boiler plate about WRFHydro and assosciated tools, including links to our NCAR project page for complete information
 
-# Official repositories
+## Official repositories
 |Repository|Description|Support status
 |------|------|-----------|
 [wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core WRF-Hydro model code| ![](static/badges/Status-Core-green.svg) |
@@ -14,5 +14,8 @@ Some boiler plate about WRFHydro and assosciated tools
 [wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the WRF-Hydro model | ![](static/badges/Status-unsupported-red.svg) |
 [rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for WRF-Hydro input and output files in R. | ![](static/badges/Status-community_supported-orange.svg) |
 
-# How to get involved
+## How to get involved
+Some boiler plate about collaboration 
+
+### Training
 Some boiler plate about collaboration 
