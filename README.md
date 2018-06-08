@@ -20,9 +20,9 @@ each tool set.
 |Tag|Description|
 |------|------|
 | ![](static/badges/Status-Core-green.svg) | Fully supported core component of the WRF-Hydro
-modelling system | 
+modelling system 
 | ![](static/badges/Status-community_supported-orange.svg) | Toolset that is used by the community
-and maintained by community contributions | 
+and maintained by community contributions 
 | ![](static/badges/Status-unsupported-red.svg) | Unsupported new toolset that is in the process of
 being generalized |
 
