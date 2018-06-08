@@ -1,7 +1,7 @@
-![](https://ral.ucar.edu/sites/default/files/public/wrf_hydro_symbol_logo_2017_09_150pxby63px.png) WRF-HYDRO
+# WRF-Hydro <img src="https://github.com/NCAR/wrf_hydro_nwm_public/blob/master/.github/images/wrf_hydro_symbol_logo_2017_09.png" width=100 align="left" />
 
-# WRFHydro
-Meta-repository for the WRFHydro modeling ecosystem. For additional information on WRF-Hydro please visit our official website at https://ral.ucar.edu/projects/wrf_hydro/overview.
+## Description
+Meta-repository for the WRF-Hydro modeling ecosystem. For additional information on WRF-Hydro please visit our official [website](https://ral.ucar.edu/projects/wrf_hydro/overview).
 
 ## What is WRF-Hydro?
 The WRF-Hydro modeling system was originally designed as a model coupling framework to facilitate easier coupling between the Weather Research and Forecasting model and components of terrestrial hydrological models.  WRF-Hydro is both a stand-alone hydrological modeling architecture as well as a coupling architecture for coupling of hydrological models with atmospheric models.  WRF-Hydro is fully-parallelized to enable its usage on clusters and high performance computing systems alike.
@@ -34,6 +34,6 @@ each tool set.
 [wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the WRF-Hydro modelling system | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_docker.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_docker) | [wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from WRF-Hydro training workshops | ![](static/badges/Status-Core-green.svg) | None | 
 [PyWrfHydroCalib](https://github.com/NCAR/PyWrfHydroCalib) | Python scripts for model calibration | ![](static/badges/Status-unsupported-red.svg) | None |
 [wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the WRF-Hydro model | ![](static/badges/Status-unsupported-red.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_py.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_py) | 
-[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for WRF-Hydro input and output files in R. | ![](static/badges/Status-community_supported-orange.svg) | None |
+[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for WRF-Hydro input and output files in R | ![](static/badges/Status-community_supported-orange.svg) | None |
 
 
