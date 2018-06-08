@@ -1,5 +1,5 @@
 # WRFHydro
-Meta-repository for the WRFHydro modeling ecosystem
+Meta-repository for the WRFHydro modeling ecosystem. For additional information on WRF-Hydro please visit our official website at https://ral.ucar.edu/projects/wrf_hydro/overview.
 
 ## What is WRF-Hydro?
 The WRF-Hydro modeling system was originally designed as a model coupling framework to facilitate easier coupling between the Weather Research and Forecasting model and components of terrestrial hydrological models.  WRF-Hydro is both a stand-alone hydrological modeling architecture as well as a coupling architecture for coupling of hydrological models with atmospheric models.  WRF-Hydro is fully-parallelized to enable its usage on clusters and high performance computing systems alike.
