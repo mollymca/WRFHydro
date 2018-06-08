@@ -30,15 +30,9 @@ each tool set.
 |------|------|-----------|---------|
 [wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core WRF-Hydro model code | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_nwm_public.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_nwm_public) |
 [wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the WRF-Hydro modelling system | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_docker.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_docker) | 
-[wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from WRF-Hydro training
-workshops | ![](static/badges/Status-Core-green.svg) | None | 
-[PyWrfHydroCalib](https://github.com/NCAR/PyWrfHydroCalib) | Python scripts for model calibration |
-![](static/badges/Status-unsupported-red.svg) | None |
-[wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the WRF-Hydro model | ![]
-(static/badges/Status-unsupported-red.svg) | [![Build Status]
-(https://travis-ci.org/NCAR/wrf_hydro_py.svg?branch=master)]
-(https://travis-ci.org/NCAR/wrf_hydro_py) | 
-[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for WRF-Hydro input and output files in
-R. | ![](static/badges/Status-community_supported-orange.svg) | None |
+[wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from WRF-Hydro training workshops | ![](static/badges/Status-Core-green.svg) | None | 
+[PyWrfHydroCalib](https://github.com/NCAR/PyWrfHydroCalib) | Python scripts for model calibration | ![](static/badges/Status-unsupported-red.svg) | None |
+[wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the WRF-Hydro model | ![](static/badges/Status-unsupported-red.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_py.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_py) | 
+[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for WRF-Hydro input and output files in R. | ![](static/badges/Status-community_supported-orange.svg) | None |
 
 
