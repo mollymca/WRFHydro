@@ -19,23 +19,17 @@ each tool set.
 
 |Tag|Description|
 |------|------|
-| ![](static/badges/Status-Core-green.svg) | Fully supported core component of the WRF-Hydro
-modelling system 
-| ![](static/badges/Status-community_supported-orange.svg) | Toolset that is used by the community
-and maintained by community contributions 
-| ![](static/badges/Status-unsupported-red.svg) | Unsupported new toolset that is in the process of
-being generalized |
+| ![](static/badges/Status-Core-green.svg) | Fully supported core component of the WRF-Hydro modelling system |
+![](static/badges/Status-community_supported-orange.svg) | Toolset that is used by the community and maintained by community contributions | 
+![](static/badges/Status-unsupported-red.svg) | Unsupported new toolset that is in the process of being generalized |
 
 
 
 ## Official repositories
 |Repository|Description|Support status|Build status|
 |------|------|-----------|---------|
-[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the
-core WRF-Hydro model code| ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_nwm_public.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_nwm_public) |
-[wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the WRF-Hydro
-modelling system | ![](static/badges/Status-Core-green.svg) | 
-[![Build Status](https://travis-ci.org/NCAR/wrf_hydro_docker.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_docker) | 
+[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core WRF-Hydro model code | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_nwm_public.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_nwm_public) |
+[wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the WRF-Hydro modelling system | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_docker.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_docker) | 
 [wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from WRF-Hydro training
 workshops | ![](static/badges/Status-Core-green.svg) | None | 
 [PyWrfHydroCalib](https://github.com/NCAR/PyWrfHydroCalib) | Python scripts for model calibration |
