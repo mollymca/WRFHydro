@@ -17,6 +17,8 @@ for all of our publically available tools so that they can be more easily discov
 these tools are in varying stages of support and this page indicates the current support level for
 each tool set.
 
+|Tag|Description|
+|------|------|
 | ![](static/badges/Status-Core-green.svg) | Fully supported core component of the WRF-Hydro
 modelling system | 
 | ![](static/badges/Status-community_supported-orange.svg) | Toolset that is used by the community
